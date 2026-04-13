@@ -1,5 +1,3 @@
-# Olist-E-Commerce-Customer-Analytics
-E Commerce Analytics Project - Brazilian E-Commerce dataset
 
 # Project: E-Commerce Customer Segmentation & Funnel Analysis
 ### Tools: MySQL · Python · Tableau | Dataset: Olist Brazilian E-Commerce (Kaggle)
