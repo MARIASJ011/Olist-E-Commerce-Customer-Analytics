@@ -200,5 +200,13 @@ project-2-ecommerce-segmentation/
 
 ---
 
+Here's what the dashboard tells a recruiter at a glance:
+
+47% of customers are Potential Loyalists — biggest growth opportunity
+Beauty & Health leads revenue at R$1.2M
+Champions and Loyal Customers spend well above average
+64.9% positive sentiment from reviews
+4 distinct customer clusters by recency and spend
+
 *Part of a 3-project data analytics portfolio spanning finance, 
 e-commerce, and travel domains.*
